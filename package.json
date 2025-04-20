@@ -1,0 +1,23 @@
+{
+  "name": "matching-server",
+  "version": "1.0.0",
+  "description": "server which matches different users ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strategist-bal/node-server.git"
+  },
+  "author": "Baljeet",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/strategist-bal/node-server/issues"
+  },
+  "homepage": "https://github.com/strategist-bal/node-server#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
